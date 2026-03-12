@@ -13,8 +13,8 @@
 class Hl < Formula
   desc "Run aarch64/x86_64 Linux ELF binaries on macOS Apple Silicon"
   homepage "https://hyper-linux.app"
-  url "https://github.com/zw3rk/hyper-linux/releases/download/v0.1.1/hl-unknown.zip"
-  sha256 "d671f89f2249437b065607561f86896768a213bd27b7bb1053f8e9c9cf97eef3"
+  url "https://github.com/zw3rk/hyper-linux/releases/download/v0.1.1/hl-v0.1.1.zip"
+  sha256 "c472ffb68e23b471c66d7324906653690846b9a7999fbc5b7309a32faf7937b4"
   version "0.1.1"
   license "Apache-2.0"
 
